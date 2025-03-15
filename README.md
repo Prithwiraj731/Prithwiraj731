@@ -1,7 +1,7 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
 # 💫 About Me:
-🔭 I’m currently working on FULL STACK PROJECTS WITH UI/UX as well as BASH<br>👯 I’m looking to collaborate on MERN Projects🌱 I’m currently learning<br>💬 Ask me about anything ;)📫 Reach me at [prithwi1016@gmail.com](mailto:prithwi1016@gmail.com).
+🔭 I’m currently working on FULL STACK PROJECTS WITH UI/UX as well as BASH<br>👯 I’m looking to collaborate on MERN Projects🌱 I’m currently learning App Development<br>💬 Ask me about anything ;)<br>📫 Reach me at [prithwi1016@gmail.com](mailto:prithwi1016@gmail.com).
 
 
 ## 🌐 Socials:
