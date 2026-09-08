@@ -26,17 +26,17 @@ To investigate persistence-based Windows threats, I built a defensive toolkit fo
 
 [Source code](https://github.com/Prithwiraj731/SilentLoaderHunter)
 
-### Lunaria E-Commerce
+### AcademyWale LMS
 
-To help apparel shoppers assess fit before checkout, I built a responsive e-commerce experience with AI virtual try-on. It combines a React storefront, API layer, product data, and an image-generation workflow in one shopping flow.
+An EdTech marketplace for CA and CMA candidates to discover faculty, structured curricula, and multi-mode lectures before enrolling. A React storefront and protected admin portal sit on normalized Supabase/PostgreSQL data, with coupon-aware enrollment, UPI payments, email confirmations, and Cloudinary media delivery.
 
-`React` `Node.js` `Express` `MongoDB` `Python`
+`React 19` `Node.js` `Express` `PostgreSQL / Supabase` `Tailwind CSS`
 
-[Source code](https://github.com/Prithwiraj731/Lunaria--E-Commerce)
+[Live demo](www.academywale.com) · [Source code](https://github.com/Prithwiraj731/Academywale-LMS)
 
 ## Technical focus
 
-**Full-stack engineering**: `JavaScript` `React` `Node.js` `Express` `MongoDB` `Supabase`
+**Full-stack engineering**: `JavaScript` `React` `Node.js` `Express` `SQL`
 
 **AI & ML**: `Python` `PyTorch` `LLM Integration` `Prompt Engineering` `Federated Learning`
 
