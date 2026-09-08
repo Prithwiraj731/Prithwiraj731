@@ -1,8 +1,32 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
-# 💫 About Me:
-🔭 I’m currently working on FULL STACK PROJECTS WITH UI/UX as well as BASH<br>👯 I’m looking to collaborate on MERN Projects. <br>🌱 I’m currently learning App Development.<br>💬 Ask me about anything ;)<br>📫 Reach me at [prithwi1016@gmail.com](mailto:prithwi1016@gmail.com).
+# 👋 Hey, I'm Prithwiraj
 
+### Full-Stack Engineer · AI/LLM Developer · Security Researcher
+
+> I build intelligent, secure and visually engaging software —
+> from full-stack applications and AI-powered systems to
+> developer tools and experimental interfaces.
+
+---
+
+## 🧬 About Me
+
+I'm a multidisciplinary developer who enjoys working at the
+intersection of **engineering, AI, cybersecurity and design**.
+
+I care about more than making software work. I like building
+systems that are **fast, secure, scalable and genuinely enjoyable
+to use**.
+
+- 🤖 AI / LLM applications
+- ⚙️ MERN & full-stack engineering
+- 🔐 Web security & bug bounty
+- 🐧 Linux & Bash
+- 🎨 UI/UX & creative interfaces
+- ⚡ Performance & automation
+
+> **Build. Break. Learn. Secure. Repeat.**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prithwi_99) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)] [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Prithwiraj731) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Prithwiraj731) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prithwi1016@gmail.com) 
