@@ -1,50 +1,59 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
-# 👋 Hey, I'm Prithwiraj
+# Prithwiraj Mazumdar
 
-### Full-Stack Engineer · AI/LLM Developer · Security Researcher
+**Full-stack developer building AI-enabled applications, deliberate interfaces, and defensive security tools.**
 
-> I build intelligent, secure and visually engaging software —
-> from full-stack applications and AI-powered systems to
-> developer tools and experimental interfaces.
+I work across product engineering, applied AI, and secure systems, designing the interface as carefully as the implementation behind it.
 
----
+[View portfolio](https://prithwiportfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/prithwiraj-mazumdar-963086291/) · [Email](mailto:prithwi1016@gmail.com)
 
-## 🧬 About Me
+## Selected work
 
-I'm a multidisciplinary developer who enjoys working at the
-intersection of **engineering, AI, cybersecurity and design**.
+### Federated Learning Supply Chain
 
-I care about more than making software work. I like building
-systems that are **fast, secure, scalable and genuinely enjoyable
-to use**.
+When supply-chain partners cannot share raw planning data, this federated-learning simulation trains models locally and aggregates their updates centrally. A Streamlit dashboard and fine-tuned Qwen assistant make the system easier to inspect and use for decision support.
 
-- 🤖 AI / LLM applications
-- ⚙️ MERN & full-stack engineering
-- 🔐 Web security & bug bounty
-- 🐧 Linux & Bash
-- 🎨 UI/UX & creative interfaces
-- ⚡ Performance & automation
+`Python` `PyTorch` `Federated Learning` `Streamlit` `Qwen`
 
-> **Build. Break. Learn. Secure. Repeat.**
+[Source code](https://github.com/Prithwiraj731/Federated_Learning_SupplyChain)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prithwi_99) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)] [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Prithwiraj731) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Prithwiraj731) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prithwi1016@gmail.com) 
+### SilentLoaderHunter
 
-# 💻 Tech Stack:
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Prithwiraj731&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prithwiraj731&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+To investigate persistence-based Windows threats, I built a defensive toolkit for detecting suspicious scheduled tasks and stealth PowerShell loader activity. It supports practical analysis and system-hardening workflows without an external endpoint agent.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prithwiraj731&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+`PowerShell` `Windows` `Scheduled Tasks` `Security Analysis`
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[Source code](https://github.com/Prithwiraj731/SilentLoaderHunter)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prithwiraj731&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Lunaria E-Commerce
+
+To help apparel shoppers assess fit before checkout, I built a responsive e-commerce experience with AI virtual try-on. It combines a React storefront, API layer, product data, and an image-generation workflow in one shopping flow.
+
+`React` `Node.js` `Express` `MongoDB` `Python`
+
+[Source code](https://github.com/Prithwiraj731/Lunaria--E-Commerce)
+
+## Technical focus
+
+**Full-stack engineering**: `JavaScript` `React` `Node.js` `Express` `MongoDB` `Supabase`
+
+**AI & ML**: `Python` `PyTorch` `LLM Integration` `Prompt Engineering` `Federated Learning`
+
+**UI engineering**: `HTML` `CSS` `GSAP` `Responsive Design`
+
+**Security**: `PowerShell` `Bash` `Linux` `OWASP Methodology` `Secure Coding`
+
+## GitHub Activity
+
+![GitHub contribution streak](https://streak-stats.demolab.com?user=Prithwiraj731&theme=github-dark-blue&hide_border=true)
+
+![Language distribution](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prithwiraj731&theme=github_dark)
+
+## Elsewhere
+
+[Portfolio](https://prithwiportfolio.vercel.app/) · [GitHub](https://github.com/Prithwiraj731) · [LinkedIn](https://www.linkedin.com/in/prithwiraj-mazumdar-963086291/) · [Email](mailto:prithwi1016@gmail.com)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Prithwiraj731&icon=6&color=0)](https://visitcount.itsvg.in)
