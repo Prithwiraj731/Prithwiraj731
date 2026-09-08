@@ -32,7 +32,7 @@ An EdTech marketplace for CA and CMA candidates to discover faculty, structured 
 
 `React 19` `Node.js` `Express` `PostgreSQL / Supabase` `Tailwind CSS`
 
-[Live demo](www.academywale.com) · [Source code](https://github.com/Prithwiraj731/Academywale-LMS)
+[Live demo](academywale.com) · [Source code](https://github.com/Prithwiraj731/Academywale-LMS)
 
 ## Technical focus
 
